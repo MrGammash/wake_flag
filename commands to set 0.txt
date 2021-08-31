@@ -1,0 +1,5 @@
+cd D:\Wake_Flag
+echo "0" > flag.txt
+git commit --all -m "set 0"
+git push
+exit
